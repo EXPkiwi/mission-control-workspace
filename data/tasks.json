@@ -16,8 +16,7 @@
       "id": "tc-003",
       "title": "Third test",
       "description": "autogen",
-      "status": "in_progress",
-      "processingStartedAt": "2026-03-06T11:12:16.837909Z",
+      "status": "review",
       "comments": [
         {
           "id": "c_1772766736837",
@@ -30,6 +29,12 @@
           "author": "MoltBot",
           "text": "Started work, running checks",
           "createdAt": "2026-03-06T11:12:25.962667Z"
+        },
+        {
+          "id": "c3",
+          "author": "MoltBot",
+          "text": "Completed automated test steps",
+          "createdAt": "2026-03-06T11:12:27.094015Z"
         }
       ]
     },
