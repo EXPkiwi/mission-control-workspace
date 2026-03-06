@@ -11,6 +11,12 @@
       "title": "Second test",
       "description": "autogen",
       "status": "backlog"
+    },
+    {
+      "id": "tc-003",
+      "title": "Third test",
+      "description": "autogen",
+      "status": "in_progress"
     }
   ],
   "projects": [
