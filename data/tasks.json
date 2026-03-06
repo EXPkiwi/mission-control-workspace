@@ -29,6 +29,12 @@
       "title": "Fifth test",
       "description": "autogen",
       "status": "in_progress"
+    },
+    {
+      "id": "tc-006",
+      "title": "Sixth test",
+      "description": "autogen",
+      "status": "in_progress"
     }
   ],
   "projects": [
